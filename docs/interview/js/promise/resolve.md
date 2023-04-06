@@ -1,0 +1,1 @@
+<SourceCode src="./resolve.js" />
